@@ -1,8 +1,7 @@
 {
   "name": "web3-social",
   "version": "1.0.0", 
-  "description": "This npm package provides a set of tools and functionalities to build social layers on top of Web3-enabled applications. It allows users to interact with each other in a decentralized and trustless manner.
-  ",
+  "description": "This npm package provides a set of tools and functionalities to build social layers on top of Web3-enabled applications. It allows users to interact with each other in a decentralized and trustless manner",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
